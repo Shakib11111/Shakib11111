@@ -15,7 +15,7 @@ I am a student based in **Gujarat, India**, passionate about bridging the gap be
 | :--- | :--- |
 | 🔌 Arduino / C++ | 🎨 Figma / UI/UX |
 | 💻 IoT Sensors | 🖌️ Photoshop / Canva |
-| 🌐 HTML / CSS | 📹 Content Creation |
+| 🌐 HTML / CSS / java / python | 📹 Content Creation |
 
 ---
 
